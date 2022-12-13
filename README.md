@@ -8,10 +8,10 @@ Die Aufgabenstellung ist hier zu finden:
 
   Aufgabenstellung: https://github.com/RabeaMue/2022-11-25-Forschungsdatenmanagement/blob/master/Modul_4/Python/Pandas_merging.ipynb
 
-  Lösung: 
+  Lösung: https://github.com/antschr96/fdm_modul4_aufgabe3/blob/main/Pandas_merging.ipynb
 
 + Teil 2 - Analysiere Daten der Seattle Library
 
   Aufgabenstellung: https://github.com/RabeaMue/2022-11-25-Forschungsdatenmanagement/blob/master/Modul_4/Python/Analyse_Seattle_Library_data.ipynb
   
-  Lösung: 
+  Lösung: https://github.com/antschr96/fdm_modul4_aufgabe3/blob/main/Analyse_Seattle_Library_data.ipynb
