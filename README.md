@@ -3,7 +3,6 @@
 
 #### Aufgabe 3 - Python Skripte
 Die Aufgabe umfasst zwei Teile. 
-Die Aufgabenstellung ist hier zu finden: 
 
 + Teil 1 - Merge Dataframes
 
